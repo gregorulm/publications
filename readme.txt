@@ -9,7 +9,7 @@ Content:
 2017.PLC_Factory_Poster_ICALEPCS2017.pdf
 (Poster presented at ICALEPCS 2017)
 
-2017_Contraction_Clustering_RASTER.pdf
+2017.Contraction_Clustering_RASTER.pdf
 (Manuscript submitted to Proceedings of MOD 2017)
 
 2016.Center_vs_Edge_Stream_Processing.pdf
