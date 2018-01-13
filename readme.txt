@@ -23,3 +23,9 @@ Content:
 
 2015.Compiling_Agda_to_Fomega.pdf
 (BSc Thesis, University of Gothenburg)
+
+2008.Boghossian_On_Epistemic_Relativism.pdf
+(MSc Thesis, London School of Economics)
+
+2007.Limitations_Of_Semi-Compatibilism.pdf
+(Article published in BUPS)
