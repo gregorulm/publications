@@ -1,8 +1,12 @@
-Self-archived publications
+Self-Archived Publications
 Gregor Ulm
 
-Content:
 
+Content
+================================================================
+
+1) Authored:
+----------------------------------------------------------------
 2017.Functional_Federated_Learning.Poster.SweDS2017.pdf
 (Poster presented at SweDS 2017)
 
@@ -29,3 +33,9 @@ Content:
 
 2007.Limitations_Of_Semi-Compatibilism.pdf
 (Article published in BUPS)
+
+
+2) Supervised:
+----------------------------------------------------------------
+2018.MSc.Performance_of_Federated_Learning
+(MSc Thesis, Chalmers, Adrian Nilsson and Simon Smith)
