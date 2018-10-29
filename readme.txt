@@ -5,8 +5,11 @@ Gregor Ulm
 Content
 ================================================================
 
-1) Authored:
+1) (Co-)Authored:
 ----------------------------------------------------------------
+2018.Performance_Federated_Learning_Algorithms.DIDL2018.pdf
+(Manuscript submitted to Proceedings of DIDL 2018)
+
 2017.Functional_Federated_Learning.Poster.SweDS2017.pdf
 (Poster presented at SweDS 2017)
 
