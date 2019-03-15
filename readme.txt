@@ -7,6 +7,9 @@ Content
 
 1) (Co-)Authored:
 ----------------------------------------------------------------
+2019.Functional_Federated_Learning_in_Erlang.WFLP2018.pdf
+(Manuscript submitted to Proceedings of WFLP 2018)
+
 2018.Performance_Federated_Learning_Algorithms.DIDL2018.pdf
 (Manuscript submitted to Proceedings of DIDL 2018)
 
