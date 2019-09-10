@@ -7,6 +7,9 @@ Content
 
 1) (Co-)Authored:
 ----------------------------------------------------------------
+2019.Active_Code_Replacement.Poster.EuroPar2019.pdf
+(Poster presented at Euro-Par 2019)
+
 2019.Functional_Federated_Learning_in_Erlang.WFLP2018.pdf
 (Manuscript submitted to Proceedings of WFLP 2018)
 
