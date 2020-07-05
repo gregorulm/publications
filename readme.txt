@@ -3,10 +3,13 @@ Gregor Ulm
 
 
 Content
-================================================================
+======================================================================
 
 1) (Co-)Authored:
-----------------------------------------------------------------
+----------------------------------------------------------------------
+2020.Active_Code_Replacement_EuroPar2019.pdf
+(Manuscript submitted to Euro-Par 2019: Parallel Processing Workshops)
+
 2019.Active_Code_Replacement.Poster.EuroPar2019.pdf
 (Poster presented at Euro-Par 2019)
 
@@ -45,6 +48,6 @@ Content
 
 
 2) Supervised:
-----------------------------------------------------------------
+----------------------------------------------------------------------
 2018.MSc.Performance_of_Federated_Learning
 (MSc Thesis, Chalmers, Adrian Nilsson and Simon Smith)
