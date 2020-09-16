@@ -7,6 +7,9 @@ Content
 
 1) (Co-)Authored:
 ----------------------------------------------------------------------
+2020.S-RASTER.JBigData.pdf
+(Manuscript submitted to Journal of Big Data)
+
 2020.Active_Code_Replacement_EuroPar2019.pdf
 (Manuscript submitted to Euro-Par 2019: Parallel Processing Workshops)
 
