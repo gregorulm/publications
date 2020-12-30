@@ -7,6 +7,9 @@ Content
 
 1) (Co-)Authored:
 ----------------------------------------------------------------------
+2020.Active_Code_Replacement.Array.pdf
+(Manuscript submitted to Array)
+
 2020.S-RASTER.JBigData.pdf
 (Manuscript submitted to Journal of Big Data)
 
