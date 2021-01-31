@@ -5,8 +5,11 @@ Gregor Ulm
 Content
 ======================================================================
 
-1) (Co-)Authored:
+1) Authored:
 ----------------------------------------------------------------------
+2021.OODIDA.JDataScEng.pdf
+(Manuscript submitted to Data Science and Engineering)
+
 2020.Active_Code_Replacement.Array.pdf
 (Manuscript submitted to Array)
 
